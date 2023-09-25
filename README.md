@@ -8,10 +8,10 @@
 ### Description 
 **StudyMates!** is a _mobile application_ with the primary function of helping the user focus on their task using the _pomodoro method_. 
 
-A study mate, a pokemon-inspired concept, is the main motivation to make the user study. The application rewards coins to the user for uninterrupted focus periods and doubles the rewards for completion of a full pomodoro session. With the in-game currency, the user can purchase items decorate or feed their study mate, increasing their mates XP and leveling up. The user can interact with their study mate by playing and taking care of them like a virtual pet. 
+A study mate, a pokemon-inspired concept, is the main motivation to make the user focus. The application rewards coins to the user for uninterrupted focus periods and doubles the rewards for completion of a full pomodoro session. With the in-game currency, the user can purchase items decorate or feed their study mate, increasing their mates' XP and leveling up. The user can interact with their study mate by playing and taking care of them like a virtual pet. 
 
 ### Developers 
-Gabriela Alvarez, Cindy Do, Megan Miyazaki, Ashley Pham
+Gabriela Alvarez, Cindy Do, Ashley Pham, Megan Miyazaki
 
 ### Tools Used 
 React Native, Google Cloud Firebase (Authentication and Firestore NoSQL), NativeWind, StyleSheet API.
